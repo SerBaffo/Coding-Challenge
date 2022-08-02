@@ -1,0 +1,73 @@
+body{
+  background-image: url(background.jpg);
+  background-size: 1625px 1219px;
+  font-family: Ubuntu;
+}
+.contenitore{
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  margin-left: 150px;
+  margin-right: 150px;
+  background-size: 2000px;
+}
+.titolo{
+  text-align: center;
+  margin-top: 20px;
+}
+.logo{
+  padding-top: 50px;
+  width: 220px;
+}
+.sottotitolo{
+  color: rgba(0,223,0,255);
+  font-size: 22px;
+}
+.navigazione{
+  background-color: rgba(0,223,0,255);
+  padding: 10px 300px;
+  margin: 10px 150px 10px 150px;
+  text-align: center;
+}
+.monopattini{
+  width:  350px;
+  margin: 20px 150px;
+  padding-bottom: 100px;
+}
+.tipo{
+  font-size: 28px;
+  color: white;
+}
+.Carica{
+  display: block;
+  color: white;
+}
+.Via{
+  color: white;
+  font-size: 18px;
+}
+.statocarica1{
+  background-color: orange;
+  display: block;
+  width: 300px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  color: rgba(255, 255, 255, 0.0);
+}
+.statocarica2{
+  background-color: green;
+  display: block;
+  width: 550px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  color: rgba(255, 255, 255, 0.0);
+}
+.statocarica3{
+  background-color: red;
+  display: block;
+  width: 150px;
+  border-radius: 5px;
+  color: rgba(255, 255, 255, 0.0);
+}
+.freccia{
+  color: white;
+}
